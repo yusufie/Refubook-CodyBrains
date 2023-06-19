@@ -10,13 +10,13 @@ import {
 
 // Our web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyAmwckD_1j2hUhWkVSvlD2VgofbM3IYKVk', // Your API Key
-  authDomain: 'codybrains-8bac4.firebaseapp.com', // Your Auth Domain
-  projectId: 'codybrains-8bac4', // Your Project ID
-  storageBucket: 'codybrains-8bac4.appspot.com', // Your Storage Bucket
-  messagingSenderId: '787254578201', // Your Messaging Sender ID
-  appId: '1:787254578201:web:84965537d78ead0ccf6e88', // Your App ID
-  measurementId: 'G-KRFH8X6LVE', // Your Measurement ID
+  apiKey: "AIzaSyBGFlcbODcRY7RnslWRE8MOy92T9v3g_GM", // Your API Key
+  authDomain: "refubook-codybrains.firebaseapp.com", // Your Auth Domain
+  projectId: "refubook-codybrains", // Your Project ID
+  storageBucket: "refubook-codybrains.appspot.com", // Your Storage Bucket
+  messagingSenderId: "698222231103", // Your Messaging Sender ID
+  appId: "1:698222231103:web:7d9dad56d2d7a26629828a", // Your App ID
+  measurementId: "G-VZ5EBC4W4N" // Your Measurement ID
 };
 
 // Initialize Firebase and export the functions
