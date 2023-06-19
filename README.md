@@ -1,3 +1,13 @@
+# Refubook - CodyBrains Live Demo
+https://refubook-cody-brains.vercel.app/
+
+# Figma Design
+https://www.figma.com/file/M7jnEmcNOk1nPXmFPHl3dg/RefuBook-Design?type=design&node-id=2-2&t=PbPAO7fGcJmCsfJV-0
+
+# Overview
+![Refubook](././src/assets/readme.jpg)
+
+
 # Capstone Project
 
 You'll be building this project with your peers. You'll be able to read more about the project you will build on your Canvas.
